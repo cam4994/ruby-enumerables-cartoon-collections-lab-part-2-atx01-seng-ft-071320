@@ -38,5 +38,5 @@ def find_valid_calls(planeteer_calls)
   return nil 
 end
 
-x = find_valid_calls(["What", "is", "Fire!", "Water!"])
+x = find_valid_calls(["What", "is", "Fire", "Water!"])
 puts x 
